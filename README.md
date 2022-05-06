@@ -91,7 +91,7 @@ df9=pd.DataFrame(rscaler.fit_transform(df5),columns=['id', 'bin_1', 'bin_2', 'Ci
 df9
 ```
 ## OUTPUT:
-![Output](.//1.PNG)
+![Output](.//01.PNG)
 ![Output](.//2.PNG)
 ![Output](.//3.PNG)
 ![Output](.//4.PNG)

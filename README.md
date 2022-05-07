@@ -251,7 +251,7 @@ df6
 ![Output](./q15.PNG)
 ![Output](./q16.PNG)
 ![Output](./q17.PNG)
-
+![output](.//q17.png)
 
 
 ## RESULT:

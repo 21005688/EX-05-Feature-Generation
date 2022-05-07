@@ -91,21 +91,21 @@ df9=pd.DataFrame(rscaler.fit_transform(df5),columns=['id', 'bin_1', 'bin_2', 'Ci
 df9
 ```
 ## OUTPUT:
-![Output](./01.PNG)
-![Output](./2.PNG)
-![Output](./3.PNG)
-![Output](./4.PNG)
-![Output](./5.PNG)
-![Output](./7.PNG)
-![Output](./8.PNG)
-![Output](./9.PNG)
-![Output](./10.PNG)
-![Output](./11.PNG)
-![Output](./12.PNG)
-![Output](./13.PNG)
-![Output](./14.PNG)
-![Output](./16.PNG)
-![Output](./17.PNG)
+![Output](./01.png)
+![Output](./2.png)
+![Output](./3.png)
+![Output](./4.png)
+![Output](./5.png)
+![Output](./7.png)
+![Output](./8.png)
+![Output](./9.png)
+![Output](./10.png)
+![Output](./11.png)
+![Output](./12.png)
+![Output](./13.png)
+![Output](./14.png)
+![Output](./16.png)
+![Output](./17.png)
 
 ## CODE:
 ```
@@ -167,18 +167,18 @@ df8=pd.DataFrame(rscaler.fit_transform(df4),columns=['id', 'bin_1', 'bin_2', 'no
 df8
 ```
 ## OUTPUT:
-![Output](./a.PNG)
-![Output](./b.PNG)
-![Output](./c.PNG)
-![Output](./d.PNG)
-![Output](./e.PNG)
-![Output](./f.PNG)
-![Output](./g.PNG)
-![Output](./h.PNG)
-![Output](./i.PNG)
-![Output](./j.PNG)
-![Output](./k.PNG)
-![Output](./m.PNG)
+![Output](./a.png)
+![Output](./b.png)
+![Output](./c.png)
+![Output](./d.png)
+![Output](./e.png)
+![Output](./f.png)
+![Output](./g.png)
+![Output](./h.png)
+![Output](./i.png)
+![Output](./j.png)
+![Output](./k.png)
+![Output](./m.png)
 ## CODE:
 ```
 import pandas as pd
@@ -238,19 +238,19 @@ df6=pd.DataFrame(rscaler.fit_transform(df2),columns=['Passenger','Survived','Pcl
 df6
 ```
 ## OUTPUT:
-![Output](./q1.PNG)
-![Output](./q2.PNG)
-![Output](./q4.PNG)
-![Output](./q5.PNG)
-![Output](./q7.PNG)
-![Output](./q8.PNG)
-![Output](./q9.PNG)
-![Output](./q10.PNG)
-![Output](./q12.PNG)
-![Output](./q13.PNG)
-![Output](./q15.PNG)
-![Output](./q16.PNG)
-![Output](./q17.PNG)
+![Output](./q1.png)
+![Output](./q2.png)
+![Output](./q4.png)
+![Output](./q5.png)
+![Output](./q7.png)
+![Output](./q8.png)
+![Output](./q9.png)
+![Output](./q10.png)
+![Output](./q12.png)
+![Output](./q13.png)
+![Output](./q15.png)
+![Output](./q16.png)
+![Output](./q17.png)
 ![output](.//q17.png)
 
 
